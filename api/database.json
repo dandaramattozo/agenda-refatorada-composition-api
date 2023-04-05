@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Estudar Vue",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "Estudar Composition API",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "ds",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
